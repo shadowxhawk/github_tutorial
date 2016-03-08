@@ -1,3 +1,5 @@
 This is pretty cool I guess
 Github seems very useful, especially version control
 I'm excited to learn more and start contributing to OS
+
+My name is Simon Wong
